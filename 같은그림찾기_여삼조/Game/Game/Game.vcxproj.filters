@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="UserImages.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Game.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\GameDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Game.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Toolbar256.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\0.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\3.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\4.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\5.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\6.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\7.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\11.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\12.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\13.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\15.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\16.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\17.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\19.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\20.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\21.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\22.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\23.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\18.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\24.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\bitmap20.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\25.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\9.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\10.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\8.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\0-1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\0-1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\3.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\4.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\5.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\6.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\11.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\12.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\15.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\16.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\17.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\18.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\19.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\20.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\21.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\22.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\23.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\24.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\25.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\9.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\10.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\8.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\hint.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\hint_down.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\pause.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\pause_down.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\start.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\start_down.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="rank1.txt" />
+    <None Include="rank2.txt" />
+    <None Include="rank3.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDoc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Rank.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="RankDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelBoxDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="NameDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="EndDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GameDoc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GameView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Rank.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RankDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelBoxDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NameDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EndDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Game.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
